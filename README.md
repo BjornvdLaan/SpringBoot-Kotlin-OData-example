@@ -34,3 +34,6 @@ Entity Collections
 http://localhost:8080/odata/Products
 http://localhost:8080/odata/Counterparties
 ```
+
+## Credits
+This repository based on https://github.com/rohitghatol/spring-boot-Olingo-oData.
